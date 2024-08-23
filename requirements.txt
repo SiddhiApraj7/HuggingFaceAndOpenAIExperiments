@@ -1,0 +1,6 @@
+gcloud==0.18.3
+google-cloud-core==2.3.1
+google-cloud-firestore==2.7.2
+google-cloud-storage==2.4.0
+google-cloud-translate==3.11.3
+webvtt-py==0.4.6
